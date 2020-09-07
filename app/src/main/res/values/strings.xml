@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">AndroidRep</string>
+
+    <string name="name">Name</string>
+    <string name="round1">Round1</string>
+    <string name="round2">Round2</string>
+    <string name="round3">Round3</string>
+    <string name="generate_character">Generate Character</string>
+    <string name="score">Score</string>
+    <string name="remove_all">Remove All</string>
 </resources>
